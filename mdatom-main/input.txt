@@ -1,0 +1,14 @@
+# Title
+Ab-initio MD Simulation
+#                      MDType              MoleculesType                 RandomSeed
+                            0                          0                 1030213988
+#               NumberMDSteps                InitialTime                   TimeStep
+                          100                          0                     0.0005
+#                  BoxSize(x)                 BoxSize(y)                 BoxSize(z)
+                            2                          2                          2
+#          NAtomsOnBoxEdge(x)         NAtomsOnBoxEdge(y)         NAtomsOnBoxEdge(z)
+                            4                          3                          4
+#          InitialTemperature          TargetTemperature    TemperatureCouplingTime
+                        30000                       3000                       0.01
+#    PropertyPrintingInterval    NumberRadialDistrPoints    RadialDistrCutoffRadius
+                            1                        100                          1

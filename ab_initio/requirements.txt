@@ -1,0 +1,4 @@
+mendeleev~=0.5.2
+psi4~=1.4rc2.dev99+c4c438c
+numpy~=1.19.2
+matplotlib~=3.3.4
